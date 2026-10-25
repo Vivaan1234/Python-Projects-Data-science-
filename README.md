@@ -12,4 +12,13 @@ python3 pypassword.py
 
 **What I learned:** lists, loops, the random module and user input.
 
-## More projects coming soon
+
+
+## Band Name Generator
+Combines your nickname and spirit animal into a band name.
+
+![Band name generator output](Band_name_generator.png)
+
+**Run it:** python3 Band_name_generator.py
+
+**What I learned:** input(), variables and string joining.
