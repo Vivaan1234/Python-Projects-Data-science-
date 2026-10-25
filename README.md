@@ -17,7 +17,7 @@ python3 pypassword.py
 ## Band Name Generator
 Combines your nickname and spirit animal into a band name.
 
-![Band name generator output](band_Name_Generator.png)
+![Band name generator output](Band_Name_Generator.png)
 
 **Run it:** python3 band_name_generator.py
 
