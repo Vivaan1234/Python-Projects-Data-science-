@@ -22,3 +22,13 @@ Combines your nickname and spirit animal into a band name.
 **Run it:** python3 band_name_generator.py
 
 **What I learned:** input(), variables and string joining.
+
+
+## Tip Calculator
+Adds a tip to the bill and splits it between people.
+
+![Tip calculator output](tip_calculator.png)
+
+**Run it:** python3 tip_calculator.py
+
+**What I learned:** float and int conversion, f-strings and rounding.
